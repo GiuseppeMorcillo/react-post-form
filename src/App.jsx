@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route,   Link } from 'react-router-dom';
 import PostForm from '../components/PostForm';
 import PostList from '../components/PostList';
 import PostDetail from '../components/PostDetail';
